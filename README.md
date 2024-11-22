@@ -2,8 +2,6 @@
 
 ## Introdução
 
-Projeto criado para meu portfólio e para o curso gratuito de Nest JS no meu [canal do Youtube](https://www.youtube.com/@BrenoVeras-dev). Nele iremos abordar os seguintes recursos:
-
 - CRUD de tarefas (Controllers, Decorators, Services, Modules)
 - Validação de DTO com class-validator
 - Variáveis de ambiente com ConfigService
